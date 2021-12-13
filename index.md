@@ -39,7 +39,7 @@ GPA 4.0/4.0
 ## Research Experience
 
 ### Tongji University
-**SITP(Student Innovation Training Program)**
+**SITP(Student Innovation Training Program)**  
 **Need Predication of Sharing Bicycle based on LSTM Neural Network/Research, Member**  
 Oct 2019 - Mar 2021  
 ·Optimized the structure and parameters of the model based on time and space features with accuracy improvement from 60% to 80%+  
