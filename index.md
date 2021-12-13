@@ -1,8 +1,8 @@
 # Alex Zhuowen Zheng
 
 Undergraduate student (graduating 2023),  
-[College of Electronic and Information Engineering(CEIE)](https://see.tongji.edu.cn),  
-[Tongji University](https://www.tongji.edu.cn), China  
+[College of Electronic and Information Engineering(CEIE)](https://see-en.tongji.edu.cn),  
+[Tongji University](https://en.tongji.edu.cn), China  
 
 [LinkedIn](https://www.linkedin.com/in/alex-zheng-blkr)  
 Mail: alexzheng@tongji.edu.cn, or
