@@ -1,4 +1,5 @@
-theme: jekyll-theme-minimal
 title: Zhuowen Zheng's Homepage
-description: Personal Resume of Alex Zhuowen Zheng
 logo: /image1.jpg
+description: Personal Resume of Alex Zhuowen Zheng
+google_analytics:
+theme: jekyll-theme-minimal
