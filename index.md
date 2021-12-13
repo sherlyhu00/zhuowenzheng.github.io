@@ -5,7 +5,10 @@ Undergraduate student (graduating 2023),
 [College of Electronic and Information Engineering(CEIE)](https://see.tongji.edu.cn),  
 [Tongji University](https://www.tongji.edu.cn), China  
 
-
+[LinkedIn](www.linkedin.com/in/alex-zheng-blkr)
+Mail: alexzheng@tongji.edu.cn, or
+      zhuowenzheng@berkeley.edu
+      
 # Biography
 
 I am currently a Communication Engineering major in Tongji University, with study interests in computer vision, NLP, adversarial machine learning, autonomous driving.    
@@ -31,7 +34,7 @@ GPA 4.0/4.0
 # Experience 
 ## Research Experience
 
-## Tongji University,  SITP(Student Innovation Training Program)
+### Tongji University,  SITP(Student Innovation Training Program)
 **Need Predication of Sharing Bicycle based on LSTM Neural Network/Research, Member**  
 Oct 2019 - Mar 2021  
 ·Optimized the structure and parameters of the model based on time and space features with accuracy improvement from 60% to 80%+  
@@ -39,7 +42,7 @@ Oct 2019 - Mar 2021
 ·Defined regional criterion including the 1000m-radius area centering on metro stations, malls and schools  
 ·Applied principles in counting from hemacytometry to the marginal data-set point  
 
-## Arizona State University(ASU)   
+### Arizona State University(ASU)   
 Research Assistant(Intern), Remote,  
 Ira A. Fulton Schools of Engineering  
 Nov 2021 - Present
@@ -48,7 +51,7 @@ Nov 2021 - Present
 **Under the supervision of Prof. Chaowei Xiao[Github Homepage](https://xiaocw11.github.io)[ASU Faculty Introduction](https://fullcircle.asu.edu/welcome/chaowei-xiao/)**  
 
 ## Professional Experience
-## Ping’an Securities, Shanghai
+### Ping’an Securities, Shanghai
 Jul 2021 -Aug 2021
 Data Analysis Assistant, Summer Intern
  ·Engaged in daily analysis work on active clients of stock investment MCN contents via framework in Python
