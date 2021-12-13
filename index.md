@@ -24,7 +24,7 @@ Autonomous Driving
 
 [Aug 13 2021] Finished Data 8 course on remote summer session at UC Berkeley and obtained Grade A in the class, where I finished an 8-week course and two data analysis project regarding genetic science and semantic natural language processing respectively.    
 
-# Eudcation
+# Education
 ## Tongji University
 B.Eng, Communication Engineering, College of Electronic and Information Engineering,  
 Sep 2019 - Jul 2023, Shanghai, China  
@@ -38,7 +38,8 @@ GPA 4.0/4.0
 # Experience 
 ## Research Experience
 
-### Tongji University,  SITP(Student Innovation Training Program)
+### Tongji University
+**SITP(Student Innovation Training Program)**
 **Need Predication of Sharing Bicycle based on LSTM Neural Network/Research, Member**  
 Oct 2019 - Mar 2021  
 ·Optimized the structure and parameters of the model based on time and space features with accuracy improvement from 60% to 80%+  
@@ -53,7 +54,7 @@ Nov 2021 - Present
  ·Implementing adversarial training on [*SemanticAdv*](https://arxiv.org/abs/1906.07927), improving the robustness of the machine learning system.  
  ·More research ongoing...  
  
-**Under the supervision of Prof. Chaowei Xiao [Github Homepage](https://xiaocw11.github.io) / [ASU Faculty Introduction](https://fullcircle.asu.edu/welcome/chaowei-xiao/)**  
+**Under the instruction of Prof. Chaowei Xiao [Github Homepage](https://xiaocw11.github.io) / [ASU Faculty Introduction](https://fullcircle.asu.edu/welcome/chaowei-xiao/)**  
 
 ## Professional Experience
 ### Ping’an Securities, Shanghai
