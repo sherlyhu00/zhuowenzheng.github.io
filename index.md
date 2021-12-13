@@ -22,7 +22,7 @@ Autonomous Driving
 # News  
 [Nov 29 2021] Joining group of Professor Chaowei Xiao from Arizona State University as research assistant(intern) to conduct research in improving the robustness.  
 
-[Aug 13 2021] Finished Data 8 course on remote summer session at UC Berkeley and obtained Grade A in the class, where I finished an 8-week course and two data analysis project regarding genetic science and semantic natural language processing respectively.    
+[Aug 13 2021] Completed Data 8 course on remote summer session at UC Berkeley and obtained Grade A in the class, where I finished an 8-week course and two data analysis project regarding genetic science and semantic natural language processing respectively.    
 
 # Education
 ## Tongji University
