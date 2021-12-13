@@ -1,7 +1,7 @@
 # Zhuowen Zheng's Homepage
 
 
-Undergraduate student (graduating in 2023),  
+Undergraduate student (graduating 2023),  
 [College of Electronic and Information Engineering(CEIE)](https://see.tongji.edu.cn),  
 [Tongji University](https://www.tongji.edu.cn), China  
 
