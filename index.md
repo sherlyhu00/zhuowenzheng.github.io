@@ -5,7 +5,7 @@ Undergraduate student (graduating 2023),
 [College of Electronic and Information Engineering(CEIE)](https://see.tongji.edu.cn),  
 [Tongji University](https://www.tongji.edu.cn), China  
 
-[LinkedIn](www.linkedin.com/in/alex-zheng-blkr)  
+[LinkedIn](https://www.linkedin.com/in/alex-zheng-blkr)  
 
 Mail: alexzheng@tongji.edu.cn, or
       zhuowenzheng@berkeley.edu
