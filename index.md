@@ -14,7 +14,7 @@ Now actively searching for research & intern oppoturnity in related areas. Tech 
 ### Research Interests
 Computer Vision  
 Adversarial Machine Learning  
-NLP  
+Natural Language Processing  
 Autonomous Driving  
 
 # Eudcation
