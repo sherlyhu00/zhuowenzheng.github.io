@@ -56,10 +56,10 @@ Nov 2021 - Present
 
 ## Professional Experience
 ### Ping’an Securities, Shanghai
-Jul 2021 -Aug 2021
-Data Analysis Assistant, Summer Intern
- ·Engaged in daily analysis work on active clients of stock investment MCN contents via framework in Python
- ·Completed daily report and submit to the supervisor
+Jul 2021 -Aug 2021  
+Data Analysis Assistant, Summer Intern  
+ ·Engaged in daily analysis work on active clients of stock investment MCN contents via framework in Python  
+ ·Completed daily report and submit to the supervisor  
  
 # Publications
 None yet.
