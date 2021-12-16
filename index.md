@@ -79,7 +79,7 @@ Outstanding Student Leader, Oct 2020
 
 # Language Skills
 
-**English**, Fluent  （IELTS 7.5 obtained at high school), CET4 671）
+**English**, Fluent  （IELTS 7.5 obtained at high school), CET4 671）  
 **Chinese (Mandarin)**, Native  
 **Chinese (Cantonese)**, Native  
 **Korean**, Advanced  
