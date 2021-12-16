@@ -30,11 +30,11 @@ B.Eng, Communication Engineering, College of Electronic and Information Engineer
 Sep 2019 - Jul 2023, Shanghai, China  
 GPA 85.41/100 (Overall in first 2 year)  ,
 
-For CS related courses （Grade,maximum A）:
-Probability and Mathematical Statistics (A)
-High-level Language Programming(C++) (A)
-Data Structure (A)
-Numerical Calculation, Theory and Its Practices(C/C++ Language) (A)
+For some CS related courses （Grade,maximum A）:  
+Probability and Mathematical Statistics (A)  
+High-level Language Programming(C++) (A)  
+Data Structure (A)   
+Numerical Calculation, Theory and Its Practices(C/C++ Language) (A)  
 
 ## University of California, Berkeley
 Summer Session, Data Science, Division of Computing, Data Science, and Society  
