@@ -28,7 +28,13 @@ Autonomous Driving
 ## Tongji University
 B.Eng, Communication Engineering, College of Electronic and Information Engineering,  
 Sep 2019 - Jul 2023, Shanghai, China  
-GPA 85/100  
+GPA 85.41/100 (Overall in first 2 year)  ,
+
+For CS related courses （Grade,maximum A）:
+Probability and Mathematical Statistics (A)
+High-level Language Programming(C++) (A)
+Data Structure (A)
+Numerical Calculation, Theory and Its Practices(C/C++ Language) (A)
 
 ## University of California, Berkeley
 Summer Session, Data Science, Division of Computing, Data Science, and Society  
@@ -73,7 +79,7 @@ Outstanding Student Leader, Oct 2020
 
 # Language Skills
 
-**English**, Fluent  
+**English**, Fluent  （IELTS 7.5 obtained at high school(8.5/9/6/6.5), CET4 671）
 **Chinese (Mandarin)**, Native  
 **Chinese (Cantonese)**, Native  
 **Korean**, Advanced  
