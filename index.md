@@ -69,9 +69,6 @@ Jul 2021 -Aug 2021
 Data Analysis Assistant, Summer Intern  
  ·Engaged in daily analysis work on active clients of stock investment MCN contents via framework in Python  
  ·Completed daily report and submit to the supervisor  
- 
-# Publications
-None yet.
 
 # Awards and Honors
 2nd Scholarship of Excellent Undergraduate Student in 2021-2022 Academic Year  
@@ -84,3 +81,9 @@ Outstanding Student Leader, Oct 2020
 **Chinese (Cantonese)**, Native  
 **Korean**, Advanced  
 **Japanese**, Advanced  
+
+# People
+## Friends
+[Fanpeng Meng @HUST](https://mfp0610.github.io)  
+[Zhe Wang @HKPolyU](https://zhe-wang0018.github.io/)  
+
