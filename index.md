@@ -85,7 +85,6 @@ Outstanding Student Leader, Oct 2020
 # People
 ## Friends
 [Owen Huang/Data Analyst@Trip.com Group](https://www.linkedin.com/in/haohuang99/)  
-[Fanpeng Meng @HUST'23](https://mfp0610.github.io)  
-[Zhe Wang @HKPolyU'23](https://zhe-wang0018.github.io/) 
+
 
 
