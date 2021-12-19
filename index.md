@@ -48,17 +48,17 @@ GPA 4.0/4.0
 **SITP(Student Innovation Training Program)**  
 *Need Predication of Sharing Bicycle based on LSTM Neural Network/Research*, Member  
 Oct 2019 - Mar 2021  
-·Optimized the structure and parameters of the model based on time and space features with accuracy improvement from 60% to 80%+  
-·Classified datasets combining with interdisciplinary research methods (e.g. biological methods)  
-·Defined regional criterion including the 1000m-radius area centering on metro stations, malls and schools  
-·Applied principles in counting from hemacytometry to the marginal data-set point  
+- Optimized the structure and parameters of the model based on time and space features with accuracy improvement from 60% to 80%+  
+- Classified datasets combining with interdisciplinary research methods (e.g. biological methods)  
+- Defined regional criterion including the 1000m-radius area centering on metro stations, malls and schools  
+- Applied principles in counting from hemacytometry to the marginal data-set point  
 
 ### Arizona State University(ASU)   
 Research Assistant(Intern), Remote,  
 Ira A. Fulton Schools of Engineering  
 Nov 2021 - Present  
- ·Implementing adversarial training on [*SemanticAdv*](https://arxiv.org/abs/1906.07927), improving the robustness of the machine learning system.  
- ·More research ongoing...  
+ - Implementing adversarial training on [*SemanticAdv*](https://arxiv.org/abs/1906.07927), improving the robustness of the machine learning system.  
+ - More research ongoing...  
  
 **Under the instruction of Prof. Chaowei Xiao    
 [Github Homepage](https://xiaocw11.github.io) / [ASU Faculty Introduction](https://fullcircle.asu.edu/welcome/chaowei-xiao/)**  
@@ -67,8 +67,8 @@ Nov 2021 - Present
 ### Ping’an Securities, Shanghai
 Jul 2021 - Aug 2021  
 Data Analysis Assistant, Summer Intern  
- ·Engaged in daily analysis work on active clients of stock investment MCN contents via framework in Python  
- ·Completed daily report and submit to the supervisor  
+ - Engaged in daily analysis work on active clients of stock investment MCN contents via framework in Python  
+ - Completed daily report and submit to the supervisor  
 
 # Awards and Honors
 2nd Scholarship of Excellent Undergraduate Student in 2021-2022 Academic Year  
