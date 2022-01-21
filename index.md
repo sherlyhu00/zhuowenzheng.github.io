@@ -88,5 +88,4 @@ Outstanding Student Leader, Oct 2020
 [Leo Zhe Wang UG@HKPolyU](https://zhe-wang0018.github.io/)
 
 
-<a href="https://info.flagcounter.com/6NFM"><img src="https://s11.flagcounter.com/count2/6NFM/bg_FFFFFF/txt_DB7D7D/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
-
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=gvanrDP9UeoFohRR-9KCMLyeFR1K-b9nXsfpibiZvcM"></script>
