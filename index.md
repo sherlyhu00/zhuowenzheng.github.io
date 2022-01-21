@@ -85,6 +85,8 @@ Outstanding Student Leader, Oct 2020
 # People
 ## Friends
 [Owen Huang/Data Analyst@Trip.com Group](https://www.linkedin.com/in/haohuang99/)  
+[Leo Zhe Wang UG@HKPolyU](https://zhe-wang0018.github.io/)
+
 
 <a href="https://info.flagcounter.com/6NFM"><img src="https://s11.flagcounter.com/count2/6NFM/bg_FFFFFF/txt_DB7D7D/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
