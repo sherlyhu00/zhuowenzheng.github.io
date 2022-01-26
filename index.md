@@ -85,7 +85,7 @@ Outstanding Student Leader, Oct 2020
 # People
 ## Friends
 [Owen Huang/Data Analyst@Trip.com Group](https://www.linkedin.com/in/haohuang99/)  
-[Leo Zhe Wang UG@HKPolyU](https://zhe-wang0018.github.io/)
+[Leo Zhe Wang UG@HKPolyU](https://zhe-wang0018.github.io/)  
 [Fanpeng Meng UG@Huazhong UST](https://mfp0610.github.io/)
 
 # Hobby
