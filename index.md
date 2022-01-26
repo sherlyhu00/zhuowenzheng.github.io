@@ -20,7 +20,7 @@ Natural Language Processing
 Data Mining
 
 # News  
-[Nov 2021] Joining group of Professor Chaowei Xiao from Arizona State University as research assistant(intern) to conduct research in improving the robustness of machine learning systems.  
+[Dec 2021] Joining group of Professor Chaowei Xiao from Arizona State University as research assistant(intern) to conduct research in improving the robustness of machine learning systems.  
 
 [Aug 2021] Completed Data 8 course on remote summer session at UC Berkeley and obtained Grade A in the class, where I finished an 8-week course and two data analysis project regarding genetic science and semantic natural language processing respectively.    
 
@@ -56,7 +56,7 @@ Oct 2019 - Mar 2021
 ### Arizona State University(ASU)   
 Research Assistant(Intern), Remote,  
 Ira A. Fulton Schools of Engineering  
-Nov 2021 - Present  
+Dec 2021 - Present  
  - Implementing adversarial training on [*SemanticAdv*](https://arxiv.org/abs/1906.07927), improving the robustness of the machine learning system.  
  - More research ongoing...  
  
