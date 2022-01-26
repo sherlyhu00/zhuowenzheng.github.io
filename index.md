@@ -15,9 +15,9 @@ Now actively searching for research & intern oppoturnity in related areas. Tech 
 
 # Research Interests
 Computer Vision  
-Adversarial Machine Learning  
+Machine Learning  
 Natural Language Processing  
-Autonomous Driving  
+Data Mining
 
 # News  
 [Nov 2021] Joining group of Professor Chaowei Xiao from Arizona State University as research assistant(intern) to conduct research in improving the robustness of machine learning systems.  
