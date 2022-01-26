@@ -10,12 +10,12 @@ Mail: alexzheng@tongji.edu.cn, or
       
 # Biography
 
-I am currently a Communication Engineering major in Tongji University, with study interests in computer vision, NLP, adversarial machine learning, autonomous driving.    
+Zhuowen Zheng is currently a Communication Engineering major in Tongji University, with study interests in AI & machine learning. 
 Now actively searching for research & intern oppoturnity in related areas. Tech saves the world!
 
 # Research Interests
-Computer Vision  
 Machine Learning  
+Computer Vision  
 Natural Language Processing  
 Data Mining
 
