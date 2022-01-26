@@ -28,7 +28,7 @@ Autonomous Driving
 ## Tongji University
 B.Eng, Communication Engineering, College of Electronic and Information Engineering,  
 Sep 2019 - Jul 2023, Shanghai, China  
-GPA 85.41/100 (Overall in first 2 years)  ,
+GPA 85.41/100 (Overall) ,
 
 For some CS related courses （Grade,maximum A）:  
 - Probability and Mathematical Statistics (A)  
