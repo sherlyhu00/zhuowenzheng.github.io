@@ -89,5 +89,5 @@ Outstanding Student Leader, Oct 2020
 [Fanpeng Meng UG@Huazhong UST](https://mfp0610.github.io/)
 
 # Hobby
-Music(various kind of genres!), golf, travelling, civil aviation
+Music(various kind of genres!), golf, travelling, civil aviation, language study
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=gvanrDP9UeoFohRR-9KCMLyeFR1K-b9nXsfpibiZvcM"></script>
