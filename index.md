@@ -10,7 +10,7 @@ Mail: alexzheng@tongji.edu.cn, or
       
 # Biography
 
-Zhuowen Zheng is currently a Communication Engineering major in Tongji University, with study interests in AI & machine learning. 
+Zhuowen Zheng is currently a Communication Engineering major in Tongji University, self-studying computer science and software development. 
 Now actively searching for research & intern oppoturnity in related areas. Tech saves the world!
 
 # Research Interests
@@ -56,7 +56,7 @@ Oct 2019 - Mar 2021
 ### Arizona State University(ASU)   
 Research Assistant(Intern), Remote,  
 Ira A. Fulton Schools of Engineering  
-Dec 2021 - Present  
+Dec 2021 - Feb 2022 
  - Implementing adversarial training on [*SemanticAdv*](https://arxiv.org/abs/1906.07927), improving the robustness of the machine learning system.  
  - More research ongoing...  
  
