@@ -20,6 +20,9 @@ Natural Language Processing
 Data Mining
 
 # News  
+
+[Mar 2022] Joining UCInspire research program hosted by University of California, Irvine, under instruction of Prof.Ian G. Harris, with research topic in Textual Entailment of Natural Language Processing.  
+
 [Dec 2021] Joining group of Professor Chaowei Xiao from Arizona State University as research assistant(intern) to conduct research in improving the robustness of machine learning systems.  
 
 [Aug 2021] Completed Data 8 course on remote summer session at UC Berkeley and obtained Grade A in the class, where I finished an 8-week course and two data analysis project regarding genetic science and semantic natural language processing respectively.    
@@ -57,11 +60,12 @@ Oct 2019 - Mar 2021
 Research Assistant(Intern), Remote,  
 Ira A. Fulton Schools of Engineering  
 Dec 2021 - Feb 2022 
- - Implementing adversarial training on [*SemanticAdv*](https://arxiv.org/abs/1906.07927), improving the robustness of the machine learning system.  
- - More research ongoing...  
+ - Implemented adversarial training on [*SemanticAdv*](https://arxiv.org/abs/1906.07927), improving the robustness of the machine learning system.  
  
-**Under the instruction of Prof. Chaowei Xiao    
-[Github Homepage](https://xiaocw11.github.io) / [ASU Faculty Introduction](https://fullcircle.asu.edu/welcome/chaowei-xiao/)**  
+### University of California, Irvine   
+Research Intern, Remote,  
+Mar 2022 - present
+ - To implement experiments in improving algorithms of Textual Entailment.  
 
 ## Professional Experience
 ### Ping’an Securities, Shanghai
