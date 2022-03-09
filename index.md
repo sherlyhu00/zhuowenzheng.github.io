@@ -56,12 +56,6 @@ Oct 2019 - Mar 2021
 - Defined regional criterion including the 1000m-radius area centering on metro stations, malls and schools  
 - Applied principles in counting from hemacytometry to the marginal data-set point  
 
-### Arizona State University(ASU)   
-Research Assistant(Intern), Remote,  
-Ira A. Fulton Schools of Engineering  
-Dec 2021 - Feb 2022 
- - Implemented adversarial training on [*SemanticAdv*](https://arxiv.org/abs/1906.07927), improving the robustness of the machine learning system.  
- 
 ### University of California, Irvine   
 Research Intern, Remote,  
 Mar 2022 - present
