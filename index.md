@@ -44,7 +44,7 @@ Summer Session, Data Science, Division of Computing, Data Science, and Society
 Jun 2021 - Aug 2021, Berkeley, CA  
 GPA 4.0/4.0  
 
-## University Technology Sydney  
+## University of Technology Sydney  
 Exchange student(Incoming), Department of Information Technology  
 Jul 2022 - Nov 2022(Expected), Sydney, New South Wales, Australia  
 
