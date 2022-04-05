@@ -45,7 +45,7 @@ Jun 2021 - Aug 2021, Berkeley, CA
 GPA 4.0/4.0  
 
 ## University of Technology Sydney  
-Computer Science
+Computer Science  
 Exchange student(Incoming), Department of Information Technology  
 Jul 2022 - Nov 2022(Expected), Sydney, New South Wales, Australia  
 
