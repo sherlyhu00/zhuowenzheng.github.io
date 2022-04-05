@@ -59,7 +59,8 @@ Oct 2019 - Mar 2021
 ### University of California, Irvine   
 Research Intern, Remote,  
 Mar 2022 - present
- - To implement experiments in improving algorithms of Textual Entailment.  
+ - Conduct experiments in improving algorithms of Textual Entailment.  
+ - Research on refining and improving BERT model to achieve better performance.  
 
 ## Professional Experience
 ### Ping’an Securities, Shanghai
@@ -74,7 +75,7 @@ Outstanding Student Leader, Oct 2020
 
 # Language Skills
 
-**English**, Fluent  （IELTS 7.5 obtained at 2019, CET4: 671）  
+**English**, Fluent  （TOEFL 100, CET4: 671）  
 **Chinese (Mandarin)**, Native  
 **Chinese (Cantonese)**, Native  
 **Korean**, Advanced  
@@ -93,6 +94,6 @@ Music(various kind of genres!), golf, travelling, civil aviation, language study
 <a href="https://my.flightradar24.com/Alex4seasons"><img src="https://banners-my.flightradar24.com/Alex4seasons.png" alt="My Flightdiary.net profile" /></a>
 <a href="https://my.flightradar24.com/Alex4seasons"><img src="https://banners-my.flightradar24.com/Alex4seasons-future.png" alt="My Flightdiary.net profile" /></a>
 
-
+# Visitors
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=gvanrDP9UeoFohRR-9KCMLyeFR1K-b9nXsfpibiZvcM"></script>  
 
