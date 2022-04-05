@@ -90,7 +90,8 @@ Outstanding Student Leader, Oct 2020
 Music(various kind of genres!), golf, travelling, civil aviation, language study
 
 # Visitors
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=gvanrDP9UeoFohRR-9KCMLyeFR1K-b9nXsfpibiZvcM"></script>
+
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=gvanrDP9UeoFohRR-9KCMLyeFR1K-b9nXsfpibiZvcM"></script>  
 
 # For fun: flight records and upcoming flights!
 <a href="https://my.flightradar24.com/Alex4seasons"><img src="https://banners-my.flightradar24.com/Alex4seasons.png" alt="My Flightdiary.net profile" /></a>
