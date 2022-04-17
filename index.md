@@ -20,7 +20,7 @@ Natural Language Processing
 Data Mining
 
 # News  
-[Apr 2022] Admitted to the exchange program hosted by the University of Technology, Sydney, majoring in [Comupter Science](https://www.usnews.com/education/best-global-universities/computer-science) commencing Jul 2022.
+[Apr 2022] Admitted to the exchange program hosted by the University of Technology, Sydney, majoring in [Comupter Science](https://www.usnews.com/education/best-global-universities/computer-science) commencing Jul 2022.  
 
 [Mar 2022] Joining UCInspire research program hosted by University of California, Irvine, under instruction of [Prof.Ian G. Harris](https://www.ics.uci.edu/~harris/), with research topic in Textual Entailment of Natural Language Processing.  
 
@@ -31,7 +31,7 @@ Data Mining
 # Education
 ## Tongji University
 B.Eng, Communication Engineering, College of Electronic and Information Engineering,  
-Sep 2019 - Jul 2023, Shanghai, China
+Sep 2019 - Jul 2023, Shanghai, China. 
 
 ## University of California, Berkeley
 Summer Session, Data Science, Division of Computing, Data Science, and Society  
@@ -54,10 +54,16 @@ Oct 2019 - Mar 2021
 - Defined regional criterion including the 1000m-radius area centering on metro stations, malls and schools  
 - Applied principles in counting from hemacytometry to the marginal data-set point  
 
+**SAIC Foundation Tongji Joint Intelligent Driving Project Research Team**  
+Research Assistant  
+Feb 2022 - present  
+- Responsible for high-precision semantic segmentation research on road surface features such as lane lines and zebra crossings;  
+- Combining the latest work and research in the field to improve the model, propose and verify a suitable detection and segmentation scheme.  
+
 ### University of California, Irvine   
 Research Intern, Remote,  
-Mar 2022 - present
- - Conduct experiments in improving algorithms of Textual Entailment.  
+Mar 2022 - present  
+ - Conduct experiments in improving algorithms of Textual Entailment;  
  - Research on refining and improving BERT model to achieve better performance.  
 
 ## Professional Experience
