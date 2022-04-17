@@ -6,7 +6,7 @@ Undergraduate student (graduating 2023),
 
 [LinkedIn](https://www.linkedin.com/in/alex-zheng-blkr)  
 Mail: alexzheng@tongji.edu.cn, or
-      zhuowenzheng@berkeley.edu
+      zhuowez2@uci.edu
       
 # Biography
 
@@ -20,34 +20,27 @@ Natural Language Processing
 Data Mining
 
 # News  
+[Apr 2022] Admitted to the exchange program hosted by the University of Technology, Sydney, majoring in [Comupter Science](https://www.usnews.com/education/best-global-universities/computer-science) commencing Jul 2022.
 
-[Mar 2022] Joining UCInspire research program hosted by University of California, Irvine, under instruction of Prof.Ian G. Harris, with research topic in Textual Entailment of Natural Language Processing.  
+[Mar 2022] Joining UCInspire research program hosted by University of California, Irvine, under instruction of [Prof.Ian G. Harris](https://www.ics.uci.edu/~harris/), with research topic in Textual Entailment of Natural Language Processing.  
 
-[Dec 2021] Joining group of Professor Chaowei Xiao from Arizona State University as research assistant(intern) to conduct research in improving the robustness of machine learning systems.  
+[Feb 2022] Joining SAIC Foundation Tongji Joint Intelligent Driving Project Research Team in Tongji University to conduct computer vision application in autonomous driving, responsible for high-precision semantic segmentation research on road surface features such as lane lines and zebra crossings, under supervision of [Prof. Chao Wang](https://see.tongji.edu.cn/info/1154/9075.htm).  
 
 [Aug 2021] Completed Data 8 course on remote summer session at UC Berkeley and obtained Grade A in the class, where I finished an 8-week course and two data analysis project regarding genetic science and semantic natural language processing respectively.    
 
 # Education
 ## Tongji University
 B.Eng, Communication Engineering, College of Electronic and Information Engineering,  
-Sep 2019 - Jul 2023, Shanghai, China  
-GPA 85.41/100 (Overall) ,
-
-For some CS related courses （Grade,maximum A）:  
-- Probability and Mathematical Statistics (A)  
-- High-level Language Programming(C++) (A)  
-- Data Structure (A)   
-- Numerical Calculation, Theory and Its Practices(C/C++ Language) (A)  
+Sep 2019 - Jul 2023, Shanghai, China
 
 ## University of California, Berkeley
 Summer Session, Data Science, Division of Computing, Data Science, and Society  
 Jun 2021 - Aug 2021, Berkeley, CA  
-GPA 4.0/4.0  
 
 ## University of Technology Sydney  
 Computer Science  
 Exchange student(Incoming), Department of Information Technology  
-Jul 2022 - Nov 2022(Expected), Sydney, New South Wales, Australia  
+Jul 2022 - Nov 2022, Sydney, New South Wales, Australia  
 
 # Experience 
 ## Research Experience
