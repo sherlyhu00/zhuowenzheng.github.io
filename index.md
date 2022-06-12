@@ -20,7 +20,6 @@ Natural Language Processing
 Data Mining
 
 # News  
-[Apr 2022] Admitted to the exchange program hosted by the University of Technology, Sydney, majoring in [Comupter Science](https://www.usnews.com/education/best-global-universities/computer-science) commencing Jul 2022.  
 
 [Mar 2022] Joining UCInspire research program hosted by University of California, Irvine, under instruction of [Prof.Ian G. Harris](https://www.ics.uci.edu/~harris/), with research topic in Textual Entailment of Natural Language Processing.  
 
@@ -36,11 +35,6 @@ Sep 2019 - Jul 2023, Shanghai, China.
 ## University of California, Berkeley
 Summer Session, Data Science, Division of Computing, Data Science, and Society  
 Jun 2021 - Aug 2021, Berkeley, CA  
-
-## University of Technology Sydney  
-Computer Science  
-Exchange student(Incoming), Department of Information Technology  
-Jul 2022 - Nov 2022, Sydney, New South Wales, Australia  
 
 # Experience 
 ## Research Experience
@@ -62,9 +56,15 @@ Feb 2022 - present
 
 ### University of California, Irvine   
 Research Intern, Remote,  
-Mar 2022 - present  
- - Conduct experiments in improving algorithms of Textual Entailment;  
- - Research on refining and improving BERT model to achieve better performance.  
+Mar 2022 - Jun 2022
+ -  Reviewed a number of papers related to texutal entailment and studied on Repurposing Entailment for Multi-Hop Question Answering Tasks——Multee, which is a general architecture that can effectively use entailment models for multi-hop QA tasks, and:
+      + reproduced results in the paper; 
+      + attempted to add named entity annotations using Stanza(a NLP tool from Stanford) to OpenbookQA dataset, and used the annotated dataset to fine-tune the multee model, yet got slightly poorer metrics, which might due to the insufficiency of annotated words(tokens);
+      + studied on ESIM(Enhanced LSTM for Natural Language Inference) and developed the idea of merging Multee and ESIM; 
+  - Started analysis on the parse tree templates and:
+      + tried tagging the subject and object, parse tree and dependency relations using Stanford CoreNLP tool;
+      + studied on parse tree structures under Penn Tree Bank annotations and tried to delevop workable parse tree and dependency templates for predicate calculus and first-order inference system, having referred to some previous work;
+      + trying to implement ideas on the OpenbookQA dataset.
 
 ## Professional Experience
 ### Ping’an Securities, Shanghai
