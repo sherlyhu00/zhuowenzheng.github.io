@@ -59,7 +59,7 @@ Research Intern, Remote,
 Mar 2022 - Jun 2022
  -  Reviewed a number of papers related to texutal entailment and studied on Repurposing Entailment for Multi-Hop Question Answering Tasks——Multee, which is a general architecture that can effectively use entailment models for multi-hop QA tasks, and:
       + reproduced results in the paper; 
-      + attempted to add named entity annotations using Stanza(a NLP tool from Stanford) to OpenbookQA dataset, and used the annotated dataset to fine-tune the multee model, yet got slightly poorer metrics, which might due to the insufficiency of annotated words(tokens);
+      + attempted to add named entity annotations using Stanza(a NLP tool from Stanford) to OpenbookQA dataset, and used the annotated dataset to fine-tune the multee model;
       + studied on ESIM(Enhanced LSTM for Natural Language Inference) and developed the idea of merging Multee and ESIM; 
   - Started analysis on the parse tree templates and:
       + tried tagging the subject and object, parse tree and dependency relations using Stanford CoreNLP tool;
